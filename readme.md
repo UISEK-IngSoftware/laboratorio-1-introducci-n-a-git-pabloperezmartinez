@@ -13,7 +13,7 @@ IMPORTANTE: Leer detenidamente las instrucciones del laboratorio.
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo:** Pablo Pérez Martínez
+- **Nombre completo:** Pablo Pérez
 - **Fecha de inicio:** 14 de abril de 2026
 
 > **📋 Instrucción**: Edita este archivo README.md y completa tu información personal arriba. Esto debe ser tu **primer commit** del laboratorio.
